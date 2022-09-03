@@ -39,5 +39,7 @@ Git add
 
 ![картинка](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqELaib1LBn9XEEtpiUsOUmw2JqaW55AeglQ&usqp=CAU)
 
+# Добавление ссылки
 
+[Степени_числа_2](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjatZ3ltPn5AhVFpYsKHTjsAxUQFnoECAwQAQ&url=http%3A%2F%2Fndspaces.narod.ru%2Fmath%2Fstepen2.htm&usg=AOvVaw0btON1PJUmxDENH6XkvT3H)
 
