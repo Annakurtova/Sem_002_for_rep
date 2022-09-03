@@ -43,3 +43,24 @@ Git add
 
 [Степени_числа_2](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjatZ3ltPn5AhVFpYsKHTjsAxUQFnoECAwQAQ&url=http%3A%2F%2Fndspaces.narod.ru%2Fmath%2Fstepen2.htm&usg=AOvVaw0btON1PJUmxDENH6XkvT3H)
 
+# Работа с цитатами
+
+>лол
+
+цитата в цитате
+
+>лол
+>>лол лол
+
+# Работа со списками
+
+Нумерованные:
+
+1. Первый
+2. Второй
+
+Ненумерованный
+
+* Первый
++ Второй
+- Третий
